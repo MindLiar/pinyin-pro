@@ -1,6 +1,7 @@
 import { Probability, Priority } from '@/common/constant';
 import type { Pattern } from  '../common/segmentit';
 const DICT3: { [prop: string]: string } = {
+  人行道：'rén xíng dào',
   为什么: 'wèi shén me',
   实际上: 'shí jì shang',
   检察长: 'jiǎn chá zhǎng',
